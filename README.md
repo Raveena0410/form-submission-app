@@ -14,6 +14,6 @@ This is a simple full-stack form submission app using HTML, JavaScript, Express,
 2. Start server: `node server.js`
 3. Open `form.html` in browser
 
-## Note =>
+## Note => =>
 
 MongoDB must be running locally for this project to work.
