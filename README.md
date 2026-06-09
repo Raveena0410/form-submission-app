@@ -8,7 +8,7 @@ This is a simple full-stack form submission app using HTML, JavaScript, Express,
 * Backend API using Express
 * Data stored in MongoDB
 
-## How to run
+## How to run =>
 
 1. Install dependencies: `npm install`
 2. Start server: `node server.js`
