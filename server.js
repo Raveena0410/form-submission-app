@@ -7,9 +7,9 @@ app.use(cors());
 app.use(express.json());
 
 
-async function main(){
-    await mongoose.connect('mongodb://localhost:27017/form')
-}
+// async function main(){
+//     await mongoose.connect('mongodb://localhost:27017/form')
+// }
 main().catch(err=> console.log(err));
 const my=new mongoose.Schema({
     name: String,
